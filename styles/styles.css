@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color:#E6FFFD;
+    font-family: sans-serif;
+}
+.frame{
+    text-align: center;
+    background-color: white;
+    margin: 220px auto;
+    width:280px;
+    border-radius: 5%;
+    padding: 20px;
+    box-shadow: 12px 18px 27px 1px rgba(0, 0, 0, 0.45);
+}
+img{
+    border-radius: 5%;
+    width:100%;
+}
+.texts{
+    padding: 1.2rem 1rem;
+}
+p{
+    font-weight: 200;
+    font-size: 1rem;
+    color:#3f3f3f79;
+}
+a{
+    text-decoration: none;
+}
